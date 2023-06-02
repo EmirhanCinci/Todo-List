@@ -96,9 +96,38 @@ ul > li:nth-child(even) {
     background-color: #eeeeee;
 }
 
+#container {
+    width: 75%;
+    margin: 25px auto;
+}
+
+#b-list-group-items > li > span {
+    text-decoration: line-through;
+}
+
 /* Responsive tasarım */
 @media (max-width: 708px) {
     header, #container {
         width: 100%;
     }
+}
+
+/* Mesaj etiketleri için gerekli olan css biçimlendirmeleri */
+.green {
+    background-color: #d4edda;
+}
+
+.red {
+    background-color: #f8d7da;
+}
+
+.info {
+    width: 100%;
+    margin-top: 10px;
+    font-size: 20px;
+    line-height: 40px;
+    padding: 0px 8px;
+    color: black;
+    border-radius: 8px;
+    text-align: center;
 }
