@@ -1,6 +1,6 @@
 # Todo-List Projesi
 
-HTML - CSS ve JS kullanarak oluşturduğum Otel sitesi projesinin netlify'da yayınlanmış halini görmek için [tıklayınız](https://cnc-todo-list.netlify.app/).
+HTML - CSS ve JS kullanarak oluşturduğum todo-list projesinin netlify'da yayınlanmış halini görmek için [tıklayınız](https://cnc-todo-list.netlify.app/).
 
 Bu projeyi yaparken kendimi geliştirdiğim ve öğrendiğim konular ise;
 
